@@ -21,21 +21,16 @@
 
    <table cellspacing="0">
       <tr>
-         <th>Product</th>
-         <th>Name</th>
-         <th>Rating</th>
-         <th>Comment Heading</th>
-         <th>mycomment </th>
-         <th width="230">Comments</th>
+         <th>URL</th>
+         <th>Response Status</th>
+         <th>Product Highlight</th>
       </tr>
          {% for review in reviews %}
       <tr>
-          <td>{{review['Product']}}</td>
-         <td>{{review['Name']}}</td>
-         <td>{{review['Rating']}}</td>
-         <td>{{review['CommentHead']}}</td>
-         <td>{{review['Comment']}} </td>
-         <td>{{review['Comment']}} </td>
+          <td>{{review['URL']}}</td>
+         <td>{{review['Response_Status']}}</td>
+         <td>{{review['Highlight']}}</td>
+
        {% endfor %}
    </table>
 </div>

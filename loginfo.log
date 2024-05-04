@@ -1,0 +1,486 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.9:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.45 - - [04/May/2024 15:24:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [04/May/2024 15:24:14] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [04/May/2024 15:24:14] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [04/May/2024 15:24:15] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [04/May/2024 15:24:15] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [04/May/2024 15:24:15] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:This is higlight Villy
+
+INFO:root:This is higlight Villy
+Color:Blue
+
+INFO:root:This is higlight Villy
+Color:Blue
+Character:Others
+
+INFO:root:This is higlight Villy
+Color:Blue
+Character:Others
+Material:Other
+
+INFO:root:This is higlight Villy
+Color:Blue
+Character:Others
+Material:Other
+Product Height (cm):5
+
+INFO:root:This is higlight Villy
+Color:Blue
+Character:Others
+Material:Other
+Product Height (cm):5
+Product Length (cm):23
+
+INFO:root:This is higlight Villy
+Color:Blue
+Character:Others
+Material:Other
+Product Height (cm):5
+Product Length (cm):23
+Product Weight (g):150
+
+INFO:root:This is higlight Villy
+Color:Blue
+Character:Others
+Material:Other
+Product Height (cm):5
+Product Length (cm):23
+Product Weight (g):150
+Product Width (cm):10
+
+INFO:root:This is higlight Villy
+Color:Blue
+Character:Others
+Material:Other
+Product Height (cm):5
+Product Length (cm):23
+Product Weight (g):150
+Product Width (cm):10
+BIS/ISI License number:NA
+
+INFO:root:This is higlight Villy
+Color:Blue
+Character:Others
+Material:Other
+Product Height (cm):5
+Product Length (cm):23
+Product Weight (g):150
+Product Width (cm):10
+BIS/ISI License number:NA
+BIS/ISI required:NA
+
+INFO:root:This is higlight Villy
+Color:Blue
+Character:Others
+Material:Other
+Product Height (cm):5
+Product Length (cm):23
+Product Weight (g):150
+Product Width (cm):10
+BIS/ISI License number:NA
+BIS/ISI required:NA
+SUPC: SDL921026762
+
+INFO:root:This is higlight Doms
+
+INFO:root:This is higlight Doms
+Color:Mixed color
+
+INFO:root:This is higlight Doms
+Color:Mixed color
+Character:Others
+
+INFO:root:This is higlight Doms
+Color:Mixed color
+Character:Others
+Material:Other
+
+INFO:root:This is higlight Doms
+Color:Mixed color
+Character:Others
+Material:Other
+Product Height (cm):13
+
+INFO:root:This is higlight Doms
+Color:Mixed color
+Character:Others
+Material:Other
+Product Height (cm):13
+Product Length (cm):5
+
+INFO:root:This is higlight Doms
+Color:Mixed color
+Character:Others
+Material:Other
+Product Height (cm):13
+Product Length (cm):5
+Product Weight (g):400
+
+INFO:root:This is higlight Doms
+Color:Mixed color
+Character:Others
+Material:Other
+Product Height (cm):13
+Product Length (cm):5
+Product Weight (g):400
+Product Width (cm):9
+
+INFO:root:This is higlight Doms
+Color:Mixed color
+Character:Others
+Material:Other
+Product Height (cm):13
+Product Length (cm):5
+Product Weight (g):400
+Product Width (cm):9
+BIS/ISI License number:NA
+
+INFO:root:This is higlight Doms
+Color:Mixed color
+Character:Others
+Material:Other
+Product Height (cm):13
+Product Length (cm):5
+Product Weight (g):400
+Product Width (cm):9
+BIS/ISI License number:NA
+BIS/ISI required:NA
+
+INFO:root:This is higlight Doms
+Color:Mixed color
+Character:Others
+Material:Other
+Product Height (cm):13
+Product Length (cm):5
+Product Weight (g):400
+Product Width (cm):9
+BIS/ISI License number:NA
+BIS/ISI required:NA
+SUPC: SDL284126518
+
+INFO:root:This is higlight YESKART
+
+INFO:root:This is higlight YESKART
+Color:Assorted/Multicolour
+
+INFO:root:This is higlight YESKART
+Color:Assorted/Multicolour
+Character:Not Applicable
+
+INFO:root:This is higlight YESKART
+Color:Assorted/Multicolour
+Character:Not Applicable
+Material:Plastic
+
+INFO:root:This is higlight YESKART
+Color:Assorted/Multicolour
+Character:Not Applicable
+Material:Plastic
+Product Height (cm):3
+
+INFO:root:This is higlight YESKART
+Color:Assorted/Multicolour
+Character:Not Applicable
+Material:Plastic
+Product Height (cm):3
+Product Length (cm):24
+
+INFO:root:This is higlight YESKART
+Color:Assorted/Multicolour
+Character:Not Applicable
+Material:Plastic
+Product Height (cm):3
+Product Length (cm):24
+Product Weight (g):200
+
+INFO:root:This is higlight YESKART
+Color:Assorted/Multicolour
+Character:Not Applicable
+Material:Plastic
+Product Height (cm):3
+Product Length (cm):24
+Product Weight (g):200
+Product Width (cm):9
+
+INFO:root:This is higlight YESKART
+Color:Assorted/Multicolour
+Character:Not Applicable
+Material:Plastic
+Product Height (cm):3
+Product Length (cm):24
+Product Weight (g):200
+Product Width (cm):9
+BIS/ISI License number:0000
+
+INFO:root:This is higlight YESKART
+Color:Assorted/Multicolour
+Character:Not Applicable
+Material:Plastic
+Product Height (cm):3
+Product Length (cm):24
+Product Weight (g):200
+Product Width (cm):9
+BIS/ISI License number:0000
+BIS/ISI required:NA
+
+INFO:root:This is higlight YESKART
+Color:Assorted/Multicolour
+Character:Not Applicable
+Material:Plastic
+Product Height (cm):3
+Product Length (cm):24
+Product Weight (g):200
+Product Width (cm):9
+BIS/ISI License number:0000
+BIS/ISI required:NA
+SUPC: SDL997460057
+
+INFO:root:This is higlight Doms
+
+INFO:root:This is higlight Doms
+Color:Yellow
+
+INFO:root:This is higlight Doms
+Color:Yellow
+Material:Wood
+
+INFO:root:This is higlight Doms
+Color:Yellow
+Material:Wood
+No. of pieces:12
+
+INFO:root:This is higlight Doms
+Color:Yellow
+Material:Wood
+No. of pieces:12
+Ideal For:Unisex
+
+INFO:root:This is higlight Doms
+Color:Yellow
+Material:Wood
+No. of pieces:12
+Ideal For:Unisex
+Key Features:Art Accessories & Decoration
+
+INFO:root:This is higlight Doms
+Color:Yellow
+Material:Wood
+No. of pieces:12
+Ideal For:Unisex
+Key Features:Art Accessories & Decoration
+Pack:Pack of 1
+
+INFO:root:This is higlight Doms
+Color:Yellow
+Material:Wood
+No. of pieces:12
+Ideal For:Unisex
+Key Features:Art Accessories & Decoration
+Pack:Pack of 1
+Skillset:Social Skills
+
+INFO:root:This is higlight Doms
+Color:Yellow
+Material:Wood
+No. of pieces:12
+Ideal For:Unisex
+Key Features:Art Accessories & Decoration
+Pack:Pack of 1
+Skillset:Social Skills
+Type:Art Accessories & Decoration
+
+INFO:root:This is higlight Doms
+Color:Yellow
+Material:Wood
+No. of pieces:12
+Ideal For:Unisex
+Key Features:Art Accessories & Decoration
+Pack:Pack of 1
+Skillset:Social Skills
+Type:Art Accessories & Decoration
+Product Height (cm):5
+
+INFO:root:This is higlight Doms
+Color:Yellow
+Material:Wood
+No. of pieces:12
+Ideal For:Unisex
+Key Features:Art Accessories & Decoration
+Pack:Pack of 1
+Skillset:Social Skills
+Type:Art Accessories & Decoration
+Product Height (cm):5
+Product Length (cm):10
+
+INFO:root:This is higlight Doms
+Color:Yellow
+Material:Wood
+No. of pieces:12
+Ideal For:Unisex
+Key Features:Art Accessories & Decoration
+Pack:Pack of 1
+Skillset:Social Skills
+Type:Art Accessories & Decoration
+Product Height (cm):5
+Product Length (cm):10
+Product Weight (g):200
+
+INFO:root:This is higlight Doms
+Color:Yellow
+Material:Wood
+No. of pieces:12
+Ideal For:Unisex
+Key Features:Art Accessories & Decoration
+Pack:Pack of 1
+Skillset:Social Skills
+Type:Art Accessories & Decoration
+Product Height (cm):5
+Product Length (cm):10
+Product Weight (g):200
+Product Width (cm):15
+
+INFO:root:This is higlight Doms
+Color:Yellow
+Material:Wood
+No. of pieces:12
+Ideal For:Unisex
+Key Features:Art Accessories & Decoration
+Pack:Pack of 1
+Skillset:Social Skills
+Type:Art Accessories & Decoration
+Product Height (cm):5
+Product Length (cm):10
+Product Weight (g):200
+Product Width (cm):15
+Warranty:Not Available
+
+INFO:root:This is higlight Doms
+Color:Yellow
+Material:Wood
+No. of pieces:12
+Ideal For:Unisex
+Key Features:Art Accessories & Decoration
+Pack:Pack of 1
+Skillset:Social Skills
+Type:Art Accessories & Decoration
+Product Height (cm):5
+Product Length (cm):10
+Product Weight (g):200
+Product Width (cm):15
+Warranty:Not Available
+BIS/ISI License number:NA
+
+INFO:root:This is higlight Doms
+Color:Yellow
+Material:Wood
+No. of pieces:12
+Ideal For:Unisex
+Key Features:Art Accessories & Decoration
+Pack:Pack of 1
+Skillset:Social Skills
+Type:Art Accessories & Decoration
+Product Height (cm):5
+Product Length (cm):10
+Product Weight (g):200
+Product Width (cm):15
+Warranty:Not Available
+BIS/ISI License number:NA
+BIS/ISI required:NA
+
+INFO:root:This is higlight Doms
+Color:Yellow
+Material:Wood
+No. of pieces:12
+Ideal For:Unisex
+Key Features:Art Accessories & Decoration
+Pack:Pack of 1
+Skillset:Social Skills
+Type:Art Accessories & Decoration
+Product Height (cm):5
+Product Length (cm):10
+Product Weight (g):200
+Product Width (cm):15
+Warranty:Not Available
+BIS/ISI License number:NA
+BIS/ISI required:NA
+SUPC: SDL135291322
+
+INFO:root:This is higlight FunBlast
+
+INFO:root:This is higlight FunBlast
+Color:Mixed color
+
+INFO:root:This is higlight FunBlast
+Color:Mixed color
+Character:Others
+
+INFO:root:This is higlight FunBlast
+Color:Mixed color
+Character:Others
+Model No.:Unicorn Set - 8002A
+
+INFO:root:This is higlight FunBlast
+Color:Mixed color
+Character:Others
+Model No.:Unicorn Set - 8002A
+Material:Other
+
+INFO:root:This is higlight FunBlast
+Color:Mixed color
+Character:Others
+Model No.:Unicorn Set - 8002A
+Material:Other
+Product Weight (g):300
+
+INFO:root:This is higlight FunBlast
+Color:Mixed color
+Character:Others
+Model No.:Unicorn Set - 8002A
+Material:Other
+Product Weight (g):300
+Product Length (cm):21
+
+INFO:root:This is higlight FunBlast
+Color:Mixed color
+Character:Others
+Model No.:Unicorn Set - 8002A
+Material:Other
+Product Weight (g):300
+Product Length (cm):21
+Product Width (cm):18
+
+INFO:root:This is higlight FunBlast
+Color:Mixed color
+Character:Others
+Model No.:Unicorn Set - 8002A
+Material:Other
+Product Weight (g):300
+Product Length (cm):21
+Product Width (cm):18
+Product Height (cm):3
+
+INFO:root:This is higlight FunBlast
+Color:Mixed color
+Character:Others
+Model No.:Unicorn Set - 8002A
+Material:Other
+Product Weight (g):300
+Product Length (cm):21
+Product Width (cm):18
+Product Height (cm):3
+SUPC: SDL890261489
+
+INFO:werkzeug:172.18.0.45 - - [04/May/2024 15:24:26] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [04/May/2024 15:24:26] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [04/May/2024 15:24:26] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:pymongo.serverSelection:{"message": "Waiting for suitable server to become available", "selector": "Primary()", "operation": "ping", "topologyDescription": "<TopologyDescription id: 66361c6f33972923afaa82c9, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-oysj6iz-shard-00-00.fzpbpri.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-oysj6iz-shard-00-01.fzpbpri.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-oysj6iz-shard-00-02.fzpbpri.mongodb.net', 27017) server_type: Unknown, rtt: None>]>", "clientId": {"$oid": "66361c6f33972923afaa82c9"}, "remainingTimeMS": 29}
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.9:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
