@@ -10,7 +10,7 @@ logging.basicConfig(filename="loginfo.log", level=logging.INFO)
 from pymongo.mongo_client import MongoClient     # For Mongodb 
 from pymongo.server_api import ServerApi
 
-uri = "mongodb+srv://Deep:Mongo12.@cluster0.fzpbpri.mongodb.net/?retryWrites=true&w=majority"
+uri = "mongodb+srv://Deep:<password>@cluster0.fzpbpri.mongodb.net/?retryWrites=true&w=majority"
 
 # Create a new client and connect to the server
 client = MongoClient(uri, server_api=ServerApi('1'))
